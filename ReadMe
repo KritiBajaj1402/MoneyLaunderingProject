@@ -1,0 +1,16 @@
+1.Run MLMain.py
+
+Input : N - Enter Number of Companies to Generate Data
+Output:  (1) TransactionData_N  -- Transaction Detail of Normal Company
+		 (2) TransactionData_S -- Transaction Detail of Shell Company
+		 (3) CompanyData_N -- Company Data of Normal Company
+		 (4) CompanyData_S -- Company Data of Shell Company
+		 (5) SummarizedData_N -- Summarized Data of Normal Company Data  and Transaction Data
+		 (6) SummarizedData_S -- Summarized Data of Shell Company Data and Transaction Data
+		 (7) CombineNormalShell -- UsinG SummarizedData_N and SummarizedData_S Find mean and std.
+		 
+2.Analysis of variable -- Done on Jupyter Notebook
+	VariableAnalysis.ipynb
+
+3.ApplyingModels -- Done on Jupyter Notebook 
+	ApplyingModels.ipynb
